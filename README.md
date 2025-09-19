@@ -1,0 +1,1 @@
+This is my Telco Customer Churn project, i done exploratory data analysis(EDA) using python, where i dove deep into understanding customer churn patterns. This project helped me explore the power of data.
